@@ -5,13 +5,14 @@
 
 - [Himanshu Agarwal](https://github.com/himanshu-03)
 - [Mahima Churi](https://github.com/Mahitej28)
-- [Naman Agarwal](https://github.com/khushpatel28)
+- [Naman Agarwal](https://github.com/namanagarwal3112)
 - [Vinit Agarwal](https://github.com/khushpatel28)
 
 <br>
 
 ## 🔗 Links
 
+<a href='https://hiimanshu.wixsite.com/themutantplanets' target="_blank"><img alt='The Mutant Planets Website' src='https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=The Mutant Planets Website&logoColor=E40808&labelColor=E40D0D&color=EA0404'/></a>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
