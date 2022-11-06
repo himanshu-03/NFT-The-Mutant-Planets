@@ -4,7 +4,7 @@
 ## ✍️ Authors
 
 - [Himanshu Agarwal](https://github.com/himanshu-03)
-- [Mahima Churi](https://github.com/yash-jain-07)
+- [Mahima Churi](https://github.com/Mahitej28)
 - [Naman Agarwal](https://github.com/khushpatel28)
 - [Vinit Agarwal](https://github.com/khushpatel28)
 - [Shubham Acharekar](https://github.com/khushpatel28)
