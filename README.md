@@ -12,7 +12,7 @@
 
 ## 🔗 Links
 
-[![The Mutant Planets - Website](https://img.shields.io/badge/The_Mutant_Planets-Website-red?style=for-the-badge&logo=wix&logoColor=red)](https://hiimanshu.wixsite.com/themutantplanets)
+[![The mutant planets - Website](https://img.shields.io/badge/The_mutant_planets-Website-FF0000?style=for-the-badge&logo=Wix&logoColor=Ff0000)](https://hiimanshu.wixsite.com/themutantplanets)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
