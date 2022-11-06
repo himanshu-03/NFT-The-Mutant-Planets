@@ -12,9 +12,12 @@
 
 ## 🔗 Links
 
-[![The mutant planets - Website](https://img.shields.io/badge/The_mutant_planets-Website-FF0000?style=for-the-badge&logo=Wix&logoColor=Ff0000)](https://hiimanshu.wixsite.com/themutantplanets)
+<div align = "center">
+<a href="https://hiimanshu.wixsite.com/themutantplanets"><img src="https://img.shields.io/badge/The_mutant_planets-Website-Ff0000?style=for-the-badge&logo=Wix&logoColor=Ff0000" alt="The mutant planets - Website"></a>&nbsp&nbsp&nbsp
+<a href="https://instagram.com/the.mutant.planets?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/The_mutant_planets-Instagram-405DE6?style=for-the-badge&logo=Instagram&logoColor=white" alt="The mutant planets - Instagram"></a>
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+</div>
+
 
 <br>
 
