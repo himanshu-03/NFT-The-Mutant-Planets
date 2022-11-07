@@ -2,13 +2,25 @@
 # Deployment of NFT on Open Sea & Website
 
 
+## 🛣️ Roadmap
 
-## ✍️ Authors
+- ### Blockchain
+        We will be hosting our NFT’s on a secured blockchain through which we will store our
+        metadata and NFT’s in a secure decentralized environment and from there we will mint
+        those NFT’s for sale purpose on Open Sea platform.
 
-- [Himanshu Agarwal](https://github.com/himanshu-03)
-- [Mahima Churi](https://github.com/Mahitej28)
-- [Naman Agarwal](https://github.com/namanagarwal3112)
-- [Vinit Agarwal](https://github.com/khushpatel28)
+- ### Generating and Selling NFT's
+        We have created a code for generation of out NFT’s and we will be uploading the files and
+        metadata of those NFT’s on a secure API platform called as NFT Port. We will be
+        uploading and minting the NFT’s from our code itself and we will provide the metadata
+        with various traits and a specific DNA address of each NFT’s
+
+- ### Promotion
+        We will be promoting our NFT’s on various social media handles and on our Discord
+        network. As selling NFT’s requires a great amount of connect among the audience we try
+        to gather as much audience as we can to get known in the Metaverse and among the Open
+        Sea creators.
+
 
 <br>
 
@@ -21,6 +33,14 @@
 </div>
 
 
+<br>
+
+## ✍️ Authors
+
+- [Himanshu Agarwal](https://github.com/himanshu-03)
+- [Mahima Churi](https://github.com/Mahitej28)
+- [Naman Agarwal](https://github.com/namanagarwal3112)
+- [Vinit Agarwal](https://github.com/khushpatel28)
 <br>
 
 ## 📌 To use this code:
