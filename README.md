@@ -14,7 +14,7 @@
 
 <div>
 <a href="https://hiimanshu.wixsite.com/themutantplanets"><img src="https://img.shields.io/badge/The_mutant_planets-Website-Ff0000?style=for-the-badge&logo=Wix&logoColor=Ff0000" alt="The mutant planets - Website"></a>&nbsp&nbsp&nbsp
-<a href="https://instagram.com/the.mutant.planets?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/The_mutant_planets-Instagram-405DE6?style=for-the-badge&logo=Instagram&logoColor=white" alt="The mutant planets - Instagram"></a>&nbsp&nbsp&nbsp<br><br>
+<a href="https://instagram.com/the.mutant.planets?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/The_mutant_planets-Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=white" alt="The mutant planets - Instagram"></a>&nbsp&nbsp&nbsp<br><br>
 <a href="https://opensea.io/The_Mutant_Planets_"><img src="https://img.shields.io/badge/The_mutant_planets-Opensea-blue?style=for-the-badge&logo=opensea&logoColor=blue" alt="The mutant planets - Opensea"></a>
 </div>
 
