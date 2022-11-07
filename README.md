@@ -24,7 +24,15 @@
 
 <br>
 
+## 👀 Screenshots
+- ### Website
 <img src ="assets/Website.png" align="center">
+<br>
+
+- ### Open Sea
+<img src ="assets/opensea.png" align="center">
+<img src ="assets/opensea2.png" align="center">
+<br>
 
 ## 🔗 Links
 
