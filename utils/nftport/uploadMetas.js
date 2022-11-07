@@ -3,7 +3,7 @@ const basePath = process.cwd();
 const fs = require("fs");
 const readDir = `${basePath}/build/Json`;
 
-const AUTH = '7c9a806f-4d00-4078-9978-8eb08e104096';
+const AUTH = '';
 const TIMEOUT = 1000;
 
 const allMetadata = [];
