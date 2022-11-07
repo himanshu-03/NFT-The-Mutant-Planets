@@ -3,8 +3,8 @@ const path = require("path");
 const basePath = process.cwd();
 const fs = require("fs");
 
-const AUTH = '7c9a806f-4d00-4078-9978-8eb08e104096';
-const CONTRACT_ADDRESS = '0xf5D9be556fc8156ced776902FBDb42352820cc8A';
+const AUTH = '';
+const CONTRACT_ADDRESS = '';
 const MINT_TO_ADDRESS = '0x6e88733Bf3ae8D7A28989B5594b09F46dF147879';
 const CHAIN = 'polygon';
 const TIMEOUT = 2000;
