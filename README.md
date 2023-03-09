@@ -9,7 +9,7 @@
         metadata and NFT’s in a secure decentralized environment and from there we will mint
         those NFT’s for sale purpose on Open Sea platform.
 
-- ### Generating and Selling NFT's
+- ### Generation and Selling of NFT's
         We have created a code for generation of out NFT’s and we will be uploading the files and
         metadata of those NFT’s on a secure API platform called as NFT Port. We will be
         uploading and minting the NFT’s from our code itself and we will provide the metadata
