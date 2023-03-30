@@ -1,0 +1,32 @@
+{
+  "name": "the_mutant_planets",
+  "version": "1.0",
+  "description": "The Mutant Planets Club is a collection of 999 mutant NFTs—unique digital collectibles living on the Polygon blockchain.",
+  "main": "index.js",
+  "bin": "index.js",
+  "pkg": {
+    "assets": [
+      "layers/**/*",
+      "node_modules/**/*",
+      "src/**/*"
+    ]
+  },
+  "scripts": {
+    "build": "node index.js",
+    "generate": "node index.js",
+    "rarity": "node utils/rarity.js",
+    "preview": "node utils/preview.js",
+    "pixelate": "node utils/pixelate.js",
+    "update_info": "node utils/update_info.js",
+    "preview_gif": "node utils/preview_gif.js"
+  },
+  "author": "Himanshu_Agarwal",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "form-data": "^4.0.0",
+    "gif-encoder-2": "^1.0.5",
+    "node-fetch": "^2.6.7",
+    "sha1": "^1.1.1"
+  }
+}

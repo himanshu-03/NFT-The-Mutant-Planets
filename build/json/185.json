@@ -1,0 +1,29 @@
+{
+  "name": "TheMutantPlanets #185",
+  "description": "The Mutant Planets Club is a collection of 999 mutant NFTs—unique digital collectibles living on the Polygon blockchain. With over 170+ hand-drawn traits, your exclusive NFT serves as a membership to an elite club with multiple members-only benefits.",
+  "file_url": "ipfs://NewUriToReplace/185.png",
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Blue Moon "
+    },
+    {
+      "trait_type": "PLANETS",
+      "value": "Ego "
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Doraemon "
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Weirdo "
+    }
+  ],
+  "custom_fields": {
+    "dna": "b71675e01e85c0af646f9cb0151f744f155ea508",
+    "edition": 185,
+    "date": 1666171298821
+  },
+  "external_url": "https://thenftworld.wixsite.com/themutantplanets"
+}
